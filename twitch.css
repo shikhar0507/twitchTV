@@ -1,10 +1,22 @@
-.jumbotron {
-    
-    text-align: center;
-    color:white;
-    background-color: black;
-    font-family: fantasy;
-    font-size: 40px;
+
+#btn_online {
+  background-color:green;
+}
+#offline {
+          font-size:20px;
+}
+
+#online {
+  font-size:20px;
+}
+hr {
+      border-bottom:2px solid;
 }
 
 
+
+img {
+  
+  border-radius:30px;
+  
+}
